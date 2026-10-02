@@ -1,9 +1,13 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/login/page": "app/login/page.js",
-  "/more/page": "app/more/page.js",
   "/appointments/book/page": "app/appointments/book/page.js",
   "/appointments/page": "app/appointments/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/doctors/page": "app/doctors/page.js",
+  "/hospital/page": "app/hospital/page.js",
+  "/login/page": "app/login/page.js",
+  "/more/page": "app/more/page.js",
+  "/page": "app/page.js",
   "/patients/page": "app/patients/page.js",
-  "/dashboard/page": "app/dashboard/page.js"
+  "/specialities/page": "app/specialities/page.js"
 }
